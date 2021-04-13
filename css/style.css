@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+    background-color: whitesmoke;
+}
+nav{
+    background-color:rgba(2, 1, 1, 0.76) ;
+ 
+}
+nav ul{
+    position: relative;
+    
+}
+nav ul li{
+    display: inline;
+    padding: 60px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    vertical-align: middle;
+    line-height:100px ;
+}
+main{
+    margin-left: 220px;
+    width: 75%;
+}
+section img{
+  padding: 11px;
+
+}
+
+ div img{
+    display: inline-block;
+    padding: 20px;
+    float:left;
+}
+div p{
+    margin-top: 50px;
+    text-align: justify;
+}
+button{
+    background-color: black;
+    color: white;
+}
+footer{
+    background-color:rgba(2, 1, 1, 0.76) ;
+    clear: both;
+    width: 100%;
+    height: 100px;
+
+}
+      
