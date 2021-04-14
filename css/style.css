@@ -54,4 +54,10 @@ footer{
     height: 100px;
 
 }
+.logo{
+    display: inline-block;
+    width: 220px;
+    list-style: none;
+    vertical-align: middle;
+}
       
